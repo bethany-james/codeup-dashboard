@@ -1,0 +1,8 @@
+div.container {
+    border: 1px solid red;
+}
+
+div.col {
+    background-color: teal;
+    border: 1px solid lawngreen;
+}
